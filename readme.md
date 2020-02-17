@@ -10,13 +10,14 @@ The purpose here is to conduct regular tech meetups in the department. If you've
 
 Meetup specific details are in their respective folders.
 
-| SNO | Date       | Topic                                      |
-| --- | ---------- | ------------------------------------------ |
-| 1   | 03-10-2019 | hacktoberfest                              |
-| 2   | 23-10-2019 | JavaScript 101 and How to pick up projects |
-| 3   | 30-10-2019 | Docker and CI/CD                           |
-| 4   | 06-11-2019 | Web Services - REST and GraphQL            |
-| 5   | 13-11-2019 | Git and Github                             |
+| SNO | Date       | Topic                                              | Speakers                    |
+| --- | ---------- | -------------------------------------------------- | --------------------------- |
+| 1   | 03-10-2019 | hacktoberfest                                      | Jatin Rohilla, Ruman Saleem |
+| 2   | 23-10-2019 | JavaScript 101 and How to pick up projects         | Jatin Rohilla, Ruman Saleem |
+| 3   | 30-10-2019 | Docker and CI/CD                                   | Jatin Rohilla, Ruman Saleem |
+| 4   | 06-11-2019 | Web Services - REST and GraphQL                    | Jatin Rohilla, Ruman Saleem |
+| 5   | 13-11-2019 | Git and Github                                     | Jatin Rohilla, Ruman Saleem |
+| 6   | 31-01-2020 | Data Structures with C++ Standard Template Library | Ankush Khanna               |
 
 ## AMAs (Ask Me Anything)
 
