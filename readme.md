@@ -18,6 +18,7 @@ Meetup specific details are in their respective folders.
 | 4   | 06-11-2019 | Web Services - REST and GraphQL                    | Jatin Rohilla, Ruman Saleem |
 | 5   | 13-11-2019 | Git and Github                                     | Jatin Rohilla, Ruman Saleem |
 | 6   | 31-01-2020 | Data Structures with C++ Standard Template Library | Ankush Khanna               |
+| 7   | 28-02-2020 | [Web Development: Building up the Foundation](./20200228-web-development-foundation.md)        | Ruman Saleem                |
 
 ## AMAs (Ask Me Anything)
 
