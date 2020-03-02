@@ -28,9 +28,8 @@ Details & Resources :
 
 | SNO | Date       | Topic                                              | Speakers                    |
 | --- | ---------- | -------------------------------------------------- | --------------------------- |
-| 1   | 27-02-2020 | [Practical Machine Learning](https://drive.google.com/open?id=1Zc5Dl1y2py1-sN84l-qwUO66iePFtEfD)                         | Nitesh yadav                |
+| 1   | 27-02-2020 | [Practical Machine Learning](https://drive.google.com/open?id=1Zc5Dl1y2py1-sN84l-qwUO66iePFtEfD)                         | Nitesh Yadav                |
 
 ## AMAs (Ask Me Anything)
 
 We recently started AMAs. If you've any kind of question regarding anything, feel free to fill the [AMA form](https://bit.ly/ducs-ama). We'll try to address the questions in upcoming sessions.
-
