@@ -16,9 +16,10 @@ Meetup specific details are in their respective folders.
 | 2   | 23-10-2019 | JavaScript 101 and How to pick up projects         | Jatin Rohilla, Ruman Saleem |
 | 3   | 30-10-2019 | Docker and CI/CD                                   | Jatin Rohilla, Ruman Saleem |
 | 4   | 06-11-2019 | Web Services - REST and GraphQL                    | Jatin Rohilla, Ruman Saleem |
-| 5   | 13-11-2019 | Git and Github                                     | Jatin Rohilla, Ruman Saleem |
+| 5   | 13-11-2019 | [Git and Github](./20191113-git-and-github/GitAndGitHub.pdf)    | Jatin Rohilla, Ruman Saleem |
 | 6   | 31-01-2020 | [Data Structures with C++ Standard Template Library](./20200131-data-structures-cpp-stl/MeetUp_DS_CPP_STL.pdf) | Ankush Khanna               |
-| 7   | 28-02-2020 | [Web Development: Building up the Foundation](./20200228-web-development-foundation.md)        | Ruman Saleem                |
+| 7   | 28-02-2020 | [Web Development: Building up the Foundation](./20200228-web-development-foundation/WebDevelopmentFoundation.md) | Ruman Saleem              |
+| 8   | 10-05-2020 | [Competitive Programming Basics](./20200510-competitive-programming-basics/)     | Ankush Khanna |
 
 
 
