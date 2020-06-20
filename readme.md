@@ -29,8 +29,8 @@ Details & Resources :
 
 | SNO | Date       | Topic                                              | Speakers                    |
 | --- | ---------- | -------------------------------------------------- | --------------------------- |
-| 1   | 14-10-2019 | Web Development Workshop                           | Ruman Saleem                |
-| 2   | 27-02-2020 | [Practical Machine Learning](https://drive.google.com/open?id=1Zc5Dl1y2py1-sN84l-qwUO66iePFtEfD)                | Nitesh Yadav                |
+| 1   | 14-10-2019 | [Web Development Workshop](./2019-10-14-web-development-ptp/WebDevelopmentWorkshopPTP.md)            | Ruman Saleem                |
+| 2   | 27-02-2020 | [Practical Machine Learning](https://drive.google.com/open?id=1Zc5Dl1y2py1-sN84l-qwUO66iePFtEfD)     | Nitesh Yadav                |
 
 
 
