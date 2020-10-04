@@ -41,6 +41,7 @@ Details & Resources:
 | ------ | ---------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
 |    1   | 08-11-2019 | [Technical Interview Preparation - 101](https://slides.com/jatinrohilla/tip101/fullscreen)                         | Jatin Rohilla, Yogesh Bhakhar |
 |    2   | 16-01-2020 | [Technical Interview Preparation - 102](./2020-01-16-tech-interview-prep-102/TechInterviewPreparation102.pdf)      | Jatin Rohilla                 |
+|    3   | 03-10-2020 | [Interview Preparation Tips](https://slides.com/sahilnishal/interview-prep/fullscreen)                             | Abhishek Kansal, Ankush Khanna, Sahil Nishal, Saurabh Puri |
 
 ## AMAs (Ask Me Anything)
 
