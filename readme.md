@@ -24,8 +24,6 @@ Meetup specific details are in their respective folders.
 |   10   | 14-02-2021 | [Recursion Basics](./2021-02-14-recursion-basics/)                                                                 | Ankush Khanna                 |
 
 
-
-
 ## Peer Training Programmes (PTP)
 
 Details & Resources:
@@ -36,7 +34,6 @@ Details & Resources:
 |    2   | 27-02-2020 | [Practical Machine Learning](https://drive.google.com/open?id=1Zc5Dl1y2py1-sN84l-qwUO66iePFtEfD)                   | Nitesh Yadav                  |
 
 
-
 ## Placement Sessions
 
 | S. No. | Date       | Topic                                                                                                              | Speakers                      |
@@ -44,6 +41,7 @@ Details & Resources:
 |    1   | 08-11-2019 | [Technical Interview Preparation - 101](https://slides.com/jatinrohilla/tip101/fullscreen)                         | Jatin Rohilla, Yogesh Bhakhar |
 |    2   | 16-01-2020 | [Technical Interview Preparation - 102](./2020-01-16-tech-interview-prep-102/TechInterviewPreparation102.pdf)      | Jatin Rohilla                 |
 |    3   | 03-10-2020 | [Interview Preparation Tips](https://slides.com/sahilnishal/interview-prep/fullscreen)                             | Abhishek Kansal, Ankush Khanna, Sahil Nishal, Saurabh Puri |
+
 
 ## AMAs (Ask Me Anything)
 
