@@ -1,6 +1,6 @@
 /*
  * Generating all subsets for a given set of size n.
- * We have use a technique called as "Bit Masking", where
+ * We have used a technique called as "Bit Masking", where
  * we mask our problem on bits. So we represent a set of size n
  * as a bit string (or binary representation of a number) of length n
  * (n bits). Each bit's state signifies whether the element at this position
