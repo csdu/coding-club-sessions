@@ -17,7 +17,7 @@ Meetup specific details are in their respective folders.
 |    3   | 30-10-2019 | Docker and CI/CD                                                                                                   | Jatin Rohilla, Ruman Saleem   |
 |    4   | 06-11-2019 | [Web Services - REST and GraphQL](./2019-11-06-web-services/WebServices.pdf)                                       | Jatin Rohilla, Ruman Saleem   |
 |    5   | 13-11-2019 | [Git and GitHub](./2019-11-13-git-and-github/GitAndGitHub.pdf)                                                     | Jatin Rohilla, Ruman Saleem   |
-|    6   | 31-01-2020 | [Data Structures with C++ Standard Template Library](./2020-01-31-data-structures-cpp-stl/MeetUp_DS_CPP_STL.pdf)   | Ankush Khanna                 |
+|    6   | 31-01-2020 | [Data Structures with C++ Standard Template Library](./2020-01-31-data-structures-cpp-stl/)                        | Ankush Khanna                 |
 |    7   | 28-02-2020 | [Web Development: Building up the Foundation](./2020-02-28-web-development-foundation/WebDevelopmentFoundation.md) | Ruman Saleem                  |
 |    8   | 10-05-2020 | [Competitive Programming Basics](./2020-05-10-competitive-programming-basics/)                                     | Ankush Khanna                 |
 |    9   | 30-06-2020 | [Competitive Programming Graph Theory](./2020-06-30-competitive-programming-graphs/)                               | Ankush Khanna                 |
