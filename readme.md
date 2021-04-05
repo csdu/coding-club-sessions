@@ -22,6 +22,7 @@ Meetup specific details are in their respective folders.
 |    8   | 10-05-2020 | [Competitive Programming Basics](./2020-05-10-competitive-programming-basics/)                                     | Ankush Khanna                 |
 |    9   | 30-06-2020 | [Competitive Programming Graph Theory](./2020-06-30-competitive-programming-graphs/)                               | Ankush Khanna                 |
 |   10   | 14-02-2021 | [Recursion Basics](./2021-02-14-recursion-basics/)                                                                 | Ankush Khanna                 |
+|   11   | 04-04-2021 | [Competitive Programming Binary Search](./2021-04-04-competitive-programming-binary-search/)                       | Ankush Khanna                 |
 
 
 ## Peer Training Programmes (PTP)
