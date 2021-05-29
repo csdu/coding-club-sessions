@@ -43,6 +43,7 @@ Details & Resources:
 |    2   | 16-01-2020 | [Technical Interview Preparation - 102](./2020-01-16-tech-interview-prep-102/TechInterviewPreparation102.pdf)      | Jatin Rohilla                 |
 |    3   | 03-10-2020 | [Interview Preparation Tips](https://slides.com/sahilnishal/interview-prep/fullscreen)                             | Abhishek Kansal, Ankush Khanna, Sahil Nishal, Saurabh Puri |
 |    4   | 10-01-2021 | [Placement Session: 10 January, 2021](https://slides.com/sahilnishal/placement-session/fullscreen)                 | Ankush Khanna, Sahil Nishal   |
+|    5   | 29-05-2021 | [Placement Session: 29 May, 2021](https://slides.com/ankushkhanna/placement-session/fullscreen)                    | Ankush Khanna, Sahil Nishal   |
 
 
 ## AMAs (Ask Me Anything)
