@@ -24,6 +24,7 @@ Meetup specific details are in their respective folders.
 |   10   | 14-02-2021 | [Recursion Basics](./2021-02-14-recursion-basics/)                                                                 | Ankush Khanna                 |
 |   11   | 04-04-2021 | [Competitive Programming Binary Search](./2021-04-04-competitive-programming-binary-search/)                       | Ankush Khanna                 |
 |   12   | 16-05-2021 | [Graph Traversals and Shortest Paths](./2021-05-16-graph-traversals-and-shortest-paths/)                           | Ankush Khanna                 |
+|   13   | 03-10-2021 | [Disjoint Set Union](./2021-10-03-disjoint-set-union/)                                                             | Ankush Khanna                 |
 
 
 ## Peer Training Programmes (PTP)
